@@ -1,0 +1,20 @@
+.heading {
+background-image: url("../images/building.png");
+background-repeat: no-repeat;
+text-align: center;
+}
+
+.heading h1 {
+font-family: helvetica;
+font-size: 70px;
+font-weight: bold;
+color: white;
+}
+
+.subheadings {
+font-family: helvetica;
+font-size: 18px;
+font-weight: bold;
+color: white;
+text-align: center;
+}
